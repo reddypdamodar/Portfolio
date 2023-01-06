@@ -32,7 +32,7 @@ export const ProjectList = [
   {
     name: "Register/Login",
     image: Proj5,
-    skills: "Node.js,MongoDB,Ejs,JavaScript,HTML,CSS",
+    skills: "Node.js,MongoDB,Ejs,bcrypt,JavaScript,HTML,CSS",
     link: "https://github.com/reddypdamodar/User-Management",
   },
 ];
